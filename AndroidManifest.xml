@@ -22,6 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.gao.smsmanager.ConversationUI"/>
+        <activity android:name="com.gao.smsmanager.GroupUI"/>
+        <activity android:name="com.gao.smsmanager.FolderUI"/>
     </application>
 
 </manifest>
